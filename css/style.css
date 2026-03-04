@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: calibri;
+    background-color: black;
+}
+main{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+main h1{
+    text-align: center;
+}
+#logoname{
+    color: rgb(163, 255, 163);
+    font-weight: bold;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    filter: invert(100);
+    max-width: 25%;
+}
